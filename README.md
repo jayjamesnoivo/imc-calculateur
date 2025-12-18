@@ -21,7 +21,7 @@ Créer un calculateur d'IMC avec différentes fonctionnalités
 - def calculer_imc(poids, taille), def interpreter_imc(imc) - Fonctionnalité 1 (par Jeremy Noivo)
 - def demander_infos(), def afficher_resultat(imc, categorie) - Fonctionnalité 2 (par Marie-Ève Ferland-Bernier)
 - def sauvegarder_calcul(nom, imc),def afficher_historique() - Fonctionnalité 3 (par Eva Bessette)
-- # Orchestre tout + tests unitaires - Fonctionnalité 4 (par Testeur)
+- Orchestre tout + tests unitaires - Fonctionnalité 4 (par Jean-Simon Cyr)
  
 ## Leçons Apprises
  
