@@ -12,7 +12,7 @@ Créer un calculateur d'IMC avec différentes fonctionnalités
  
 ## Installation
  
-1. git clone https://github.com/mferlandbernier-creator/Systeme-de-Tickets-de-Support.git
+1. git clone [https://github.com/jayjamesnoivo/imc-calculateur.git]
 2. cd Systeme-de-Tickets-de-Support
 3. python main.py
  
