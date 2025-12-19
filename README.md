@@ -14,7 +14,7 @@ Créer un calculateur d'IMC avec différentes fonctionnalités
  
 1. git clone [https://github.com/jayjamesnoivo/imc-calculateur.git]
 2. cd imc-calculateur
-3. python main.py
+3. calculs.py
  
 ## Fonctionnalités
  
